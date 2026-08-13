@@ -19,3 +19,9 @@ plt.show()
 import sys
 print(sys.executable)
 # %%
+blob:vscode-webview://094bkulee0k62n6ovc34v82n3g7d78hrcv9mnquqpmii7kcad6iv/fd6b827a-42ef-41a6-928f-415a475d7937
+# %%
+import sys
+print(sys.executable)
+
+# %%
